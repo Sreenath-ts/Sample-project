@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "promise": "^8.1.0",
+    "readline-sync": "^1.4.10",
+    "upper-case": "^2.0.2"
+  },
+  "name": "sample-project",
+  "version": "1.0.0",
+  "main": "Arrowfunction.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
